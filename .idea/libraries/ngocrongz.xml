@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ngocrongz">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ngocrongz.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

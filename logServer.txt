@@ -1,0 +1,30 @@
+Name=Whis zoneId=19 mapName=Hành tinh Bill 2: 15h39 29/04/2025
+Name=Beerus zoneId=19 mapName=Hành tinh Bill 2: 15h39 29/04/2025
+Name=Tiểu đội trưởng zoneId=11 mapName=Núi khỉ đỏ: 15h39 29/04/2025
+Name=Số 1 zoneId=11 mapName=Núi khỉ đỏ: 15h39 29/04/2025
+Name=Số 2 zoneId=11 mapName=Núi khỉ đỏ: 15h39 29/04/2025
+Name=Số 3 zoneId=11 mapName=Núi khỉ đỏ: 15h39 29/04/2025
+Name=Số 4 zoneId=11 mapName=Núi khỉ đỏ: 15h39 29/04/2025
+Name=Fide Đại Ca 1 zoneId=13 mapName=Núi khỉ vàng: 15h39 29/04/2025
+Name=Android 19 zoneId=14 mapName=Đảo Balê: 15h40 29/04/2025
+Name=Dr.Kôrê zoneId=14 mapName=Đảo Balê: 15h40 29/04/2025
+Name=Android 15 zoneId=15 mapName=Sân sau siêu thị: 15h40 29/04/2025
+Name=Android 14 zoneId=15 mapName=Sân sau siêu thị: 15h40 29/04/2025
+Name=Pic zoneId=6 mapName=Ngọn núi phía bắc: 15h40 29/04/2025
+Name=Poc zoneId=6 mapName=Ngọn núi phía bắc: 15h40 29/04/2025
+Name=King Kong zoneId=6 mapName=Ngọn núi phía bắc: 15h40 29/04/2025
+Name=Xên bọ hung zoneId=6 mapName=Thị trấn Ginder: 15h40 29/04/2025
+Name=Xên hoàn thiện zoneId=14 mapName=Võ đài Xên bọ hung: 15h40 29/04/2025
+Name=Black Goku zoneId=14 mapName=Thành phố phía nam: 15h41 29/04/2025
+Name=Cooler zoneId=3 mapName=Hang băng: 15h41 29/04/2025
+Name=Bojack zoneId=10 mapName=Rừng nấm: 15h41 29/04/2025
+Name=Bido zoneId=10 mapName=Rừng nấm: 15h41 29/04/2025
+Name=Zangya zoneId=10 mapName=Rừng nấm: 15h41 29/04/2025
+Name=Kogu zoneId=10 mapName=Rừng nấm: 15h41 29/04/2025
+Name=Bujin zoneId=10 mapName=Rừng nấm: 15h41 29/04/2025
+Name=Tiểu đội trưởng zoneId=2 mapName=Vực maima: 15h41 29/04/2025
+Name=Số 1 zoneId=2 mapName=Vực maima: 15h41 29/04/2025
+Name=Số 2 zoneId=2 mapName=Vực maima: 15h41 29/04/2025
+Name=Số 3 zoneId=2 mapName=Vực maima: 15h41 29/04/2025
+Name=Số 4 zoneId=2 mapName=Vực maima: 15h41 29/04/2025
+Name=Chilld zoneId=15 mapName=Làng Plant nguyên thủy: 15h41 29/04/2025
